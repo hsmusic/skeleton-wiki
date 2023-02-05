@@ -1,0 +1,7 @@
+.DS_Store
+
+/out
+
+/media/thumbnail-cache.json
+/media/**/*.medium.jpg
+/media/**/*.small.jpg
