@@ -1,11 +1,6 @@
 .DS_Store
 
+/cache
 /out
 
-/media/thumbnail-cache.json
-/media/**/*.mini.jpg
-/media/**/*.small.jpg
-/media/**/*.medium.jpg
-/media/**/*.large.jpg
-/media/**/*.semihuge.jpg
-/media/**/*.huge.jpg
+/media/file-size-cache.json

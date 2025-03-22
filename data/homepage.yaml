@@ -1,6 +1,7 @@
 Homepage: Homepage
 ---
-Row: New Releases
-Type: albums
+Section: New Releases
+---
+Row: album grid
 Group: new-releases
 Count: 4
